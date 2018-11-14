@@ -1,7 +1,7 @@
 ---
-layout: posts
-tittle: Weekly Reflection
-date:2018-28-09
+layout: post
+tittle: "Weekly Reflection"
+date: 2018-28-09
 ---
 
 1. Describe how you are feeling about the class
